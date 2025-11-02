@@ -1,4 +1,4 @@
-const BASE_URL = 'https://lively-trust-production-d04e.up.railway.app'
+const BASE_URL = 'https://lively-trust-production-d04e.up.railway.app/api/v1';
 
 // AUTH ENDPOINTS
 export const endpoints = {
